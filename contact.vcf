@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Phyu;Maria;;;
+FN:Maria Phyu
+ORG:Food Safety Auditing Services
+TITLE:Food Safety Auditor
+TEL;TYPE=CELL,VOICE:+64210000000
+EMAIL;TYPE=PREF,INTERNET:maria.phyu@example.com
+URL;TYPE=WORK:https://www.linkedin.com/in/mariaphyu/
+REV:2026-11-04T00:00:00Z
+END:VCARD
